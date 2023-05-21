@@ -1,0 +1,16 @@
+{
+  "name": "@lifaon/color",
+  "version": "1.0.0",
+  "description": "Color manipulation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifaon74/color"
+  },
+  "keywords": [],
+  "author": "Valentin Richard",
+  "license": "MIT",
+  "access": "public",
+  "dependencies": {
+    "@lifaon/math": "latest"
+  }
+}
