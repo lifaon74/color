@@ -1,15 +1,15 @@
-[![npm (scoped)](https://img.shields.io/npm/v/{{package-name}}.svg)](https://www.npmjs.com/package/{{package-name}})
-![npm](https://img.shields.io/npm/dm/{{package-name}}.svg)
-![NPM](https://img.shields.io/npm/l/{{package-name}}.svg)
-![npm type definitions](https://img.shields.io/npm/types/{{package-name}}.svg)
+[![npm (scoped)](https://img.shields.io/npm/v/@lifaon/color.svg)](https://www.npmjs.com/package/@lifaon/color)
+![npm](https://img.shields.io/npm/dm/@lifaon/color.svg)
+![NPM](https://img.shields.io/npm/l/@lifaon/color.svg)
+![npm type definitions](https://img.shields.io/npm/types/@lifaon/color.svg)
 
-## {{lib-name}}
+## Color
 
 
 ## 📦 Installation
 
 ```bash
-yarn add {{package-name}}
+yarn add @lifaon/color
 # or
-npm install {{package-name}} --save
+npm install @lifaon/color --save
 ```
