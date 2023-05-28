@@ -1,4 +1,4 @@
-import { IRGBColor } from '../../rgb/rgb-color.type';
+import { IRGBColor } from '../../rgb/object/rgb/rgb-color.type';
 import { IHSLColor } from '../hsl-color.type';
 
 function hue2rgb(

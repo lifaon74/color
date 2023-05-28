@@ -1,3 +1,0 @@
-export * from './get_xyz_to_rgb_matrix';
-export * from './xyz-to-rgb-matrix.type';
-export * from './xyz_to_rgb';

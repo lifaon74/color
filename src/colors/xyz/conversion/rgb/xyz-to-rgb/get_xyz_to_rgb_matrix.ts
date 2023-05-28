@@ -1,4 +1,4 @@
-import { IRGBWorkingSpace } from '../../../../rgb/rgb-working-space.type';
+import { IRGBColorSpace } from '../../../../rgb/object/rgb-color-space/rgb-color-space.type';
 import { IReferenceWhitePoint } from '../../reference-white-point.type';
 import { IXYZToRGBMatrix } from './xyz-to-rgb-matrix.type';
 
@@ -26,10 +26,10 @@ export const XYZ_TO_ADOBE_RGB_D65_MATRIX: IXYZToRGBMatrix = [
 ];
 
 export function get_xyz_to_rgb_matrix(
-  rgb_working_space: IRGBWorkingSpace,
+  rgb_color_space: IRGBColorSpace,
   white_point: IReferenceWhitePoint,
 ): IXYZToRGBMatrix {
-  switch (rgb_working_space) {
+  switch (rgb_color_space) {
     case 'sRGB': {
       switch (white_point) {
         case 'd50':

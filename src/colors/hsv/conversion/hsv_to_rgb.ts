@@ -1,4 +1,4 @@
-import { IRGBColor } from '../../rgb/rgb-color.type';
+import { IRGBColor } from '../../rgb/object/rgb/rgb-color.type';
 import { IHSVColor } from '../hsv-color.type';
 
 export function hsv_to_rgb(

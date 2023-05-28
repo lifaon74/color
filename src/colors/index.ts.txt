@@ -1,4 +1,0 @@
-export * from './hsl/index';
-export * from './hsv/index';
-export * from './rgb/index';
-export * from './xyz/index';

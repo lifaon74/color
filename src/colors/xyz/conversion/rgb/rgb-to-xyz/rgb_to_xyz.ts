@@ -1,5 +1,4 @@
-
-import { IRGBColor } from '../../../../rgb/rgb-color.type';
+import { IRGBColor } from '../../../../rgb/object/rgb/rgb-color.type';
 import { IXYZColor } from '../../../xyz-color.type';
 import { SRGB_D65_TO_XYZ_MATRIX } from './get_rgb_to_xyz_matrix';
 import { IRGBToXYZMatrix } from './rgb-to-xyz-matrix.type';

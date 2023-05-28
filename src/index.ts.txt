@@ -1,3 +1,0 @@
-export * from './colors/index';
-export * from './parse/index';
-export * from './types/index';

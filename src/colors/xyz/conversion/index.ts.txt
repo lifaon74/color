@@ -1,3 +1,0 @@
-export * from './cct/index';
-export * from './reference-white-point.type';
-export * from './rgb/index';

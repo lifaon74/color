@@ -1,2 +1,0 @@
-export * from './rgb-to-xyz/index';
-export * from './xyz-to-rgb/index';

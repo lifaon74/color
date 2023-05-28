@@ -1,3 +1,4 @@
+import { ICCT } from '../../../cct/cct.type';
 import { IXYZColor } from '../../xyz-color.type';
 
 /*
@@ -11,14 +12,13 @@ others:
 https://www.waveformlighting.com/tech/calculate-color-temperature-cct-from-cie-1931-xy-coordinates
  */
 
-
 export function xyz_to_cct(
   {
     x,
     y,
     z,
   }: IXYZColor,
-): number {
+): ICCT {
   const _x: number = x / (x + y + z);
   const _y: number = y / (x + y + z);
 

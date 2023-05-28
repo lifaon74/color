@@ -12,5 +12,8 @@
   "access": "public",
   "dependencies": {
     "@lifaon/math": "latest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1"
   }
 }
