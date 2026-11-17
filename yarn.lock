@@ -50,9 +50,9 @@
     chalk "^4.0.0"
 
 "@lifaon/math@latest":
-  version "1.1.0-dev.1684685739848"
-  resolved "http://localhost:4873/@lifaon/math/-/math-1.1.0-dev.1684685739848.tgz#fd7342632bb970fcb652010301abf4331ee5c8d2"
-  integrity sha512-im4KThwDm62yr9CmJI+wtW0wekNR8HqGOVndIKnuZiimH+ArigzMFqQOWSZn/RVD5XaEDCB2QCfA+1MRRGD75Q==
+  version "1.1.0-dev.1685101205890"
+  resolved "http://localhost:4873/@lifaon/math/-/math-1.1.0-dev.1685101205890.tgz#02c3764345ee435729974ffcd40d04125fdaa398"
+  integrity sha512-R5SRQbe8QaZrOsaE6ky9dyp+IVzaQBRH0qJxYb/xXmWF/t34zru2vBtuyFyEVW1BusFpbal6EM7F6yhgPjx/UA==
 
 "@sinclair/typebox@^0.25.16":
   version "0.25.24"
@@ -87,9 +87,9 @@
     pretty-format "^29.0.0"
 
 "@types/node@*":
-  version "20.2.3"
-  resolved "http://localhost:4873/@types/node/-/node-20.2.3.tgz#b31eb300610c3835ac008d690de6f87e28f9b878"
-  integrity sha512-pg9d0yC4rVNWQzX8U7xb4olIOFuuVL9za3bzMT2pu2SU0SNEi66i2qrvhE2qt0HvkhuCaWJu7pLNOt/Pj8BIrw==
+  version "20.2.5"
+  resolved "http://localhost:4873/@types/node/-/node-20.2.5.tgz#26d295f3570323b2837d322180dfbf1ba156fefb"
+  integrity sha512-JJulVEQXmiY9Px5axXHeYGLSjhkZEnD+MDPDGbCbIAbMslkKwmygtZFy1X6s/075Yo94sf8GuSlFfPzysQrWZQ==
 
 "@types/stack-utils@^2.0.0":
   version "2.0.1"

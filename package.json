@@ -10,6 +10,9 @@
   "author": "Valentin Richard",
   "license": "MIT",
   "access": "public",
+  "scripts": {
+    "reinstall": "rm -rf ./node_modules && rm -f ./yarn.lock && yarn install"
+  },
   "dependencies": {
     "@lifaon/math": "latest"
   },
